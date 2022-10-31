@@ -8,7 +8,7 @@ Blog with authentication and added users
 
 
 # Description
-A complete website, deployed with the help of __heroku__ which has collection of posts and functionalities like read blogposts, auntentication of users, authenticated users can edit posts, comment on blogposts. To visit the website [click here](http://nikita1342-blog.herokuapp.com).
+A complete website, deployed with the help of __Heroku__ which has collection of posts and functionalities like read blogposts, auntentication of users, authenticated users can edit posts, comment on blogposts. To visit the website [click here](http://nikita1342-blog.herokuapp.com).
 
 # Libraries and Frameworks
 * Flask
@@ -35,6 +35,8 @@ A complete website, deployed with the help of __heroku__ which has collection of
 * Sqlalchemy.orm
 * Forms 
 * Flask_gravatar
+
+Heroku is used to deploy the website
 
 # Screenshots
 
